@@ -22,14 +22,10 @@
 
 ## 🧰 Tech Stack
 
-### 🟦 <span style="color:#1f6feb">Languages</span>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 🤖 <span style="color:#d63384">AI/ML Tools</span>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -38,9 +34,6 @@
 ![NLTK](https://img.shields.io/badge/NLTK-85B97F?style=for-the-badge&logo=nltk&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
----
-
-### 📊 <span style="color:#f59e0b">Visualization</span>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -48,9 +41,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge&logo=python&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
----
-
-### 💻 <span style="color:#10b981">Dev Tools</span>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
