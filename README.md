@@ -1,13 +1,10 @@
-<!-- 🔥 3D Moving Background Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/FpB7fIg.gif" width="100%" alt="3D Moving Banner" />
+  <img src="https://i.imgur.com/FpB7fIg.gif" width="100%" />
 </p>
 
-<!-- 👋 Typing Introduction -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=I+am+Abhishek+Mishra;Data+Science+Mentor+at+TechMinds;AI+%2B+Human+Vibe+Coding+Researcher;ML+%7C+GenAI+%7C+CV+%7C+NLP" />
 </p>
-
 
 ### 👋 I'm Abhishek Mishra!
 
