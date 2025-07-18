@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  👋 I'm Abhishek Mishra!
+  <strong><span style="font-size: 24px;">👋 I'm Abhishek Mishra!</span></strong>
 </p>
 
 
