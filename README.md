@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I+am+Abhishek+Mishra;Senior+Data+Scientist;Python+%7C+ML+%7C+GenAI+%7C+CV+%7C+NLP" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I+am+Abhishek+Mishra;Data+Science+Mentor+at+TechMinds;AI+%2B+Human+Vibe+Coding+Researcher;ML+%7C+GenAI+%7C+CV+%7C+NLP" />
 </p>
 
 ---
