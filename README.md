@@ -14,11 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Senior Data Scientist with over 5 years of experience in building intelligent AI-driven solutions.  
-I have worked on many large-scale projects involving Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.  
-I enjoy solving real-world problems using Data Science tools like Python and SQL.  
-I am passionate about helping people learn and grow in the fields of AI, ML, DL, CV, and NLP.  
-I actively share knowledge, mentor students, and collaborate on innovative projects in the AI ecosystem.
+I am a Senior Data Scientist with over 5 years of experience in building intelligent AI-driven solutions. Throughout my career, I have designed, developed, and deployed end-to-end machine learning pipelines, working on diverse real-world projects across industries such as healthcare, finance, education, and retail. My core expertise lies in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI. I love transforming raw data into meaningful insights using tools like Python, SQL, Pandas, Scikit-learn, TensorFlow, and PyTorch. I also have strong experience in data visualization and BI using Tableau, Power BI, and Looker Studio. I am deeply passionate about open-source collaboration, AI research, and building human + AI-powered systems. Currently, I am exploring the intersection of GenAI, multimodal learning. Outside of work, I enjoy speaking at tech meetups, creating AI tutorials, and experimenting with new LLM architectures. Feel free to connect if you'd like to collaborate on AI projects, mentorship!
 
 ---
 
@@ -55,15 +51,6 @@ I actively share knowledge, mentor students, and collaborate on innovative proje
 ## 🛠️ Projects
 
 - 🔍 **Work more then 500 Projects**
-
----
-
-## 🎯 Focus Areas
-
-- 📈 Advanced Machine Learning & Deep Learning  
-- 🧠 Emotion-Aware & Human-Centered AI  
-- 🧪 LLMs & Prompt Engineering  
-- 🎓 AI for Education and Social Impact  
 
 ---
 
