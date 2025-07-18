@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔬 I’m a **Senior Data Scientist** with over **5 years of experience** in building intelligent AI systems.
-- 🚀 I've worked on multiple high-impact projects involving **Machine Learning, Deep Learning, Computer Vision, and NLP**.
-- 💡 Passionate about solving real-world problems using **Data Science, Python, and SQL**.
-- 🎯 I love mentoring and helping people learn **AI, ML, DL, CV, and NLP**.
-- 🤝 Open to collaboration on research, open-source projects, and knowledge-sharing opportunities.
+I am a Senior Data Scientist with over 5 years of experience in building intelligent AI-driven solutions.  
+I have worked on many large-scale projects involving Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.  
+I enjoy solving real-world problems using Data Science tools like Python and SQL.  
+I am passionate about helping people learn and grow in the fields of AI, ML, DL, CV, and NLP.  
+I actively share knowledge, mentor students, and collaborate on innovative projects in the AI ecosystem.
 
 ---
 
