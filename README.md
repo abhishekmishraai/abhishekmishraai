@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://i.imgur.com/FpB7fIg.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Abhishek%20Mishra&fontSize=50&fontAlignY=45&desc=Data%20Science%20Mentor%20%7C%20AI%20%2B%20Human%20Vibe%20Coder&descAlignY=60&descAlign=50" alt="Abhishek Mishra - Header" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=I+am+Abhishek+Mishra;Data+Science+Mentor+at+TechMinds;AI+%2B+Human+Vibe+Coding+Researcher;ML+%7C+GenAI+%7C+CV+%7C+NLP" />
 </p>
+
 
 ### 👋 I'm Abhishek Mishra!
 
