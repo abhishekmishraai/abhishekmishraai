@@ -3,11 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I+am+Abhishek+Mishra;ML+%7C+DL+Python+%7C+%7C+GenAI+%7C+CV+%7C+NLP" />
+  < 👋 I'm Abhishek Mishra!/>
 </p>
 
 
-### 👋 I'm Abhishek Mishra!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I+am+Abhishek+Mishra;ML+%7C+DL+Python+%7C+%7C+GenAI+%7C+CV+%7C+NLP" />
+</p>
+
 
 
 ---
