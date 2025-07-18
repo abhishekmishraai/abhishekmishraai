@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=I+am+Abhishek+Mishra;Data+Science+Mentor+at+TechMinds;AI+%2B+Human+Vibe+Coding+Researcher;ML+%7C+GenAI+%7C+CV+%7C+NLP" />
 </p>
 
-
 ### 👋 I'm Abhishek Mishra!
 
 💡 AI Researcher | Mentor | Speaker | Content Creator  
