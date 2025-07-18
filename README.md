@@ -7,7 +7,7 @@
 </p>
 
 
-### 👋 I'm Abhishek Mishra!
+### p align="center"👋 I'm Abhishek Mishra!
 
 💡 AI Researcher | Mentor | Speaker | Content Creator  
 🔍 Exploring GenAI, LLMs, Transformers, and Emotion-Centric AI Systems  
