@@ -1,11 +1,11 @@
 <h1 align="center">Hey Everyone 👋</h1>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekmishrabareilly/abhishekmishrabareilly/main/assets/3d-banner.gif" width="100%" />
+  <img src="https://camo.githubusercontent.com/5006987bc0abf132fc6d9e5900084fc54c11fd0faded9f966fc82e8e860c4c9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d76656e6f6d26636f6c6f723d6175746f266865696768743d3330302673656374696f6e3d68656164657226746578743d48657925323045766572796f6e6526666f6e7453697a653d3930" alt="3D Welcome Banner" />
 </p>
 
-<img src="https://i.imgur.com/iYhRZyt.gif" width="100%" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I+am+Abhishek+Mishra;Data+Science+Mentor+at+TechMinds;AI+%2B+Human+Vibe+Coding+Researcher;ML+%7C+GenAI+%7C+CV+%7C+NLP" />
+</p>
 
 ### 👋 I'm Abhishek Mishra!
 
