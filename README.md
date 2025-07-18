@@ -1,44 +1,37 @@
 <h1 align="center">Hey Everyone 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I+am+Abhishek+Mishra;Data+Science+Mentor+at+TechMinds;AI+%2B+Human+Vibe+Coding+Researcher;Python+%7C+ML+%7C+GenAI+%7C+CV+%7C+NLP" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I+am+Abhishek+Mishra;Senior+Data+Scientist;Python+%7C+ML+%7C+GenAI+%7C+CV+%7C+NLP" />
 </p>
 
 ---
 
 ### 👋 I'm Abhishek Mishra!
 
-🎓 Data Science & AI Educator at **TechMinds Education**  
 💡 AI Researcher | Mentor | Speaker | Content Creator  
 🔍 Exploring GenAI, LLMs, Transformers, and Emotion-Centric AI Systems  
-📘 Writing a book & PhD thesis: **AI + Human Vibe Coding Platform** (Heizen)
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍🏫 Teaching and mentoring students in **Python, ML, DL, CV, NLP**
 - 🔭 Working on real-world AI solutions and tools
 - 🧠 Passionate about **emotion-driven code generation** and AI-human collaboration
-- 📚 Developing certificate programs in **Data Science**, **AI**, **GenAI**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**: Python, SQL, JavaScript  
+**Languages**: Python, SQL 
 **AI/ML Tools**: Scikit-learn, TensorFlow, PyTorch, OpenCV, NLTK, Hugging Face  
-**Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+**Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Looker Studio 
 **Dev Tools**: Git, GitHub, Google Colab, Jupyter, VS Code
 
 ---
 
 ## 🛠️ Projects
 
-- 🔍 **Number Plate Detection System** – Computer vision-based vehicle identification  
-- 📊 **Data Analysis Dashboards** – Power BI & Tableau business insights  
-- 🤖 **AI + Human Vibe Coding Platform** – Emotion-aware coding assistant (PhD Project)  
-- 🧠 **Missing Value Imputation Tool** – For machine learning pipelines
+- 🔍 **Work more then 500 Projects**
 
 ---
 
