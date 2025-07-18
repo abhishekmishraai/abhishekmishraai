@@ -7,17 +7,18 @@
 </p>
 
 
-### p align="center"👋 I'm Abhishek Mishra!
+### 👋 I'm Abhishek Mishra!
 
-💡 AI Researcher | Mentor | Speaker | Content Creator  
-🔍 Exploring GenAI, LLMs, Transformers, and Emotion-Centric AI Systems  
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔭 Working on real-world AI solutions and tools
-- 🧠 Passionate about **emotion-driven code generation** and AI-human collaboration
+- 🔬 I’m a **Senior Data Scientist** with over **5 years of experience** in building intelligent AI systems.
+- 🚀 I've worked on multiple high-impact projects involving **Machine Learning, Deep Learning, Computer Vision, and NLP**.
+- 💡 Passionate about solving real-world problems using **Data Science, Python, and SQL**.
+- 🎯 I love mentoring and helping people learn **AI, ML, DL, CV, and NLP**.
+- 🤝 Open to collaboration on research, open-source projects, and knowledge-sharing opportunities.
 
 ---
 
