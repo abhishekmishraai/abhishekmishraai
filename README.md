@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/IjK6KOb.gif" width="100%" alt="Futuristic Glitch Banner" />
+  <img src="https://i.imgur.com/3Z5wQGk.gif" width="100%" alt="Matrix Rain Banner" />
 </p>
 
 <p align="center">
